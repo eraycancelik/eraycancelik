@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Eray</h1>
 <h3 align="center">A passionate developer and mechanical engineering student</h3>
 
-- 🔭 I’m currently working on [Pancar](https://github.com/eraycancelik/Pancar)
+-  I’m currently working on [Pancar](https://github.com/eraycancelik/Pancar)
 
-- 💬 Ask me about **Python, PyQt, React, Fastapi, Django**
+-  Ask me about **Python, PyQt, React, Fastapi, Django**
 
-- 📫 How to reach me **cancelikeray@gmail.com**
+-  How to reach me **cancelikeray@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
