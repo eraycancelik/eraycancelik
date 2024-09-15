@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Eray</h1>
 <h3 align="center">A passionate developer and mechanical engineering student</h3>
 
--  I’m currently working on [Pancar](https://github.com/eraycancelik/Pancar)
+-  I’m currently working on [thermoprops](https://github.com/eraycancelik/thermoprops)
 
 -  Ask me about **Python, PyQt, React, Fastapi, Django**
 
