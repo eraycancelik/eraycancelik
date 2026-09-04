@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Eray</h1>
-<h3 align="center">A passionate developer and mechanical engineering student</h3>
+<h3 align="center">A passionate developer and mechanical engineer</h3>
 
 -  I’m currently working on [thermoprops](https://github.com/eraycancelik/thermoprops)
 
